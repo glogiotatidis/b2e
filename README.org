@@ -4,4 +4,4 @@ Boot to Emacs aims to create a complete, standalone operating system
 for open computer.
 
 Inspired from [[https://github.com/andreasgal/B2G/][Mozilla's B2G]] we build a standalone operating system
-booting directly to another operating system, [[http://www.emacs.org][Emacs]].
+booting directly to another operating system, [[http://www.gnu.org/software/emacs/][Emacs]].
